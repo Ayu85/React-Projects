@@ -1,7 +1,7 @@
 import React from "react";
 
-function Item1({productName,price,stock,image}) {
-
+function Item1({ productName, price, stock, image }) {
+  // the parameters passed to the functiopn item1 are called the props / properties of the component
   return (
     <div>
       <div class="flex font-sans m-4 border-black border rounded-sm">
