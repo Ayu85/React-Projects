@@ -5,7 +5,6 @@ import "./App.css";
 import bodyElement from "./main";
 function App() {
   const [color, setColor] = useState("olive");
-  function change() {}
   return (
     <>
       <div
