@@ -8,7 +8,7 @@ function App() {
       name: "G20 Summit India",
       year: "2023",
     },
-    {},
+   
   ];
   return (
     <>
